@@ -1,4 +1,4 @@
-# project-ZGEN
+# PROJECT-ZGEN
 VIMP<BR>**
 MY FIRST PROJECT
 **
